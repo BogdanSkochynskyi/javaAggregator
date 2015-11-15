@@ -8,7 +8,7 @@ public class IndexController {
 
     @RequestMapping("/index")
     public String index(){
-        return "/WEB-INF/jsp/index.jsp";
+        return "index";   //corresponds to <definition name="index" /> in general.xml
     }
 
 }
