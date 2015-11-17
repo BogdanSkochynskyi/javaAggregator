@@ -17,4 +17,7 @@ public class UserService {
         return userRepository.findAll();
     }
 
+    public Object findOne(int id) {
+        return userRepository.findOne(id);
+    }
 }
