@@ -1,6 +1,5 @@
 package com.btrco.jba.repository;
 
-import com.btrco.jba.entity.Role;
 import com.btrco.jba.entity.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 
