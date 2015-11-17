@@ -1,6 +1,6 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 
-<%@include file="../layout/taglib.jsp"%>
+<%@ include file="../layout/taglib.jsp" %>
 
 <table class="table table-bordered table-hover table-striped">
     <thead>
