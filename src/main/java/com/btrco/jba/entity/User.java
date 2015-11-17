@@ -63,4 +63,12 @@ public class User {
     public void setPassword(String passeord) {
         this.password = passeord;
     }
+
+    public List<Blog> getBlogs() {
+        return blogs;
+    }
+
+    public void setBlogs(List<Blog> blogs) {
+        this.blogs = blogs;
+    }
 }
